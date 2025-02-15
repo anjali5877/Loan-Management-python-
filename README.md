@@ -1,4 +1,4 @@
-# Loan Management System 💵  
+# Collection Management System 💵  
 
 ## 📅 Overview 📅  
 The **Loan Management System** is designed specifically for **SR Finance**, a small-scale finance business, to manage loans efficiently. This system allows users to add, view, update, delete, and manage loan records. It also supports exporting and importing loans from Excel, making data handling easier.  
